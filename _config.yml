@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Example Research Group
+description: Exploring AI, Biology, and Society
+baseurl: "" 
+url: "https://username.github.io"
+theme: minima   # GitHub’s default Jekyll theme
+
